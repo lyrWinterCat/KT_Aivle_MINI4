@@ -26,6 +26,8 @@
 | Face Recognition 1 | 5,979장 | 일반 얼굴 데이터 |
 | Face Recognition 2 | 4,983장 | 다양한 환경의 얼굴 데이터 |
 
+단, 본 repository에서는 보안 및 초상권의 문제로 인해 sample img로 대체되었고, 모델 학습 폴더 구조만 재현되었습니다. 
+
 ---
 
 ## 🚀 프로젝트 수행 과정
